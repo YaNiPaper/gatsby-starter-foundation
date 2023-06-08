@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: YaNiPaper
 tagline: Hector Pina
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/yanipaper.jpeg
 cta:
   ctaText: ¿Quién soy?
   ctaLink: /about
