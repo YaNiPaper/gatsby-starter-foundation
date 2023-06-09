@@ -8,4 +8,4 @@ cta:
   ctaText: ¿Quién soy?
   ctaLink: /about
 ---
-Un blog de historias y datos.
+Un humilde blog de historias y datos.
