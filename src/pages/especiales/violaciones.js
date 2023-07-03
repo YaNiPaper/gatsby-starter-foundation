@@ -1,28 +1,5 @@
 import React from 'react';
 
-import './publico/archivos/resources/ol.css';
-import './publico/archivos/resources/fontawesome-all.min.css';
-import './publico/archivos/resources/horsey.min.css';
-import './publico/archivos/resources/ol3-search-layer.min.css';
-import './publico/archivos/resources/ol-layerswitcher.css';
-import './publico/archivos/resources/qgis2web.css';
-import qgis2webExpressions from './publico/archivos/resources/qgis2web_expressions.js';
-import polyfills from './publico/archivos/resources/polyfills.js';
-import functions from './publico/archivos/resources/functions.js';
-import ol from './publico/archivos/resources/ol.js';
-import horsey from './publico/archivos/resources/horsey.min.js';
-import ol3SearchLayer from './publico/archivos/resources/ol3-search-layer.js';
-import olLayerSwitcher from './publico/archivos/resources/ol-layerswitcher.js';
-import zmgMpos1 from './publico/archivos/layers/ZMG_mpos_1.js';
-import zmgColonias2 from './publico/archivos/layers/ZMG_Colonias_2.js';
-import delitosvsmujeresZmg3 from './publico/archivos/layers/delitosvsmujeres_zmg_3.js';
-import zmgMpos1Style from './publico/archivos/styles/ZMG_mpos_1_style.js';
-import zmgColonias2Style from './publico/archivos/styles/ZMG_Colonias_2_style.js';
-import delitosvsmujeresZmg3Style from './publico/archivos/styles/delitosvsmujeres_zmg_3_style.js';
-import layers from './publico/archivos/layers/layers.js';
-import autolinker from './publico/archivos/resources/Autolinker.min.js';
-import qgis2web from './publico/archivos/resources/qgis2web.js';
-
 const SpecialPage = () => {
   return (
     <>
@@ -33,6 +10,24 @@ const SpecialPage = () => {
           <div id="popup-content"></div>
         </div>
       </div>
+
+      <script src="./resources/qgis2web_expressions.js"></script>
+      <script src="./resources/polyfills.js"></script>
+      <script src="./resources/functions.js"></script>
+      <script src="./resources/ol.js"></script>
+      <script src="http://cdn.polyfill.io/v2/polyfill.min.js?features=Element.prototype.classList,URL"></script>
+      <script src="./resources/horsey.min.js"></script>
+      <script src="./resources/ol3-search-layer.js"></script>
+      <script src="./resources/ol-layerswitcher.js"></script>
+      <script src="./layers/ZMG_mpos_1.js"></script>
+      <script src="./layers/ZMG_Colonias_2.js"></script>
+      <script src="./layers/delitosvsmujeres_zmg_3.js"></script>
+      <script src="./styles/ZMG_mpos_1_style.js"></script>
+      <script src="./styles/ZMG_Colonias_2_style.js"></script>
+      <script src="./styles/delitosvsmujeres_zmg_3_style.js"></script>
+      <script src="./layers/layers.js" type="text/javascript"></script>
+      <script src="./resources/Autolinker.min.js"></script>
+      <script src="./resources/qgis2web.js"></script>
     </>
   );
 };
