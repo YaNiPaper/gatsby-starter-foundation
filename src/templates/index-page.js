@@ -27,21 +27,6 @@ import Seo from "../components/seo"
 import Icons from "../util/socialmedia.json"
 
 
-
-import ReactDOM from 'react-dom';
-import { BrowserRouter as Router, Route } from 'react-router-dom';
-import SpecialPage from './SpecialPage'; // Importa tu componente SpecialPage
-
-ReactDOM.render(
-  <Router>
-    <Route exact path="/" component={SpecialPage} />
-  </Router>,
-  document.getElementById('root')
-);
-
-
-
-
 export const pageQuery = graphql`
   query HomeQuery($id: String!) {
     markdownRemark(id: { eq: $id }) {
