@@ -29,9 +29,16 @@ import Icons from "../util/socialmedia.json"
 
 
 import ReactDOM from 'react-dom';
-import SpecialPage from './SpecialPage';
+import { BrowserRouter as Router, Route } from 'react-router-dom';
+import SpecialPage from './SpecialPage'; // Importa tu componente SpecialPage
 
-ReactDOM.render(<SpecialPage />, document.getElementById('root'));
+ReactDOM.render(
+  <Router>
+    <Route exact path="/" component={SpecialPage} />
+  </Router>,
+  document.getElementById('root')
+);
+
 
 
 
