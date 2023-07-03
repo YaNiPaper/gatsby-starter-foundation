@@ -26,6 +26,15 @@ import BlogListHome from "../components/blog-list-home"
 import Seo from "../components/seo"
 import Icons from "../util/socialmedia.json"
 
+
+
+import ReactDOM from 'react-dom';
+import SpecialPage from './SpecialPage';
+
+ReactDOM.render(<SpecialPage />, document.getElementById('root'));
+
+
+
 export const pageQuery = graphql`
   query HomeQuery($id: String!) {
     markdownRemark(id: { eq: $id }) {
