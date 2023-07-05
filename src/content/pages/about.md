@@ -1,7 +1,7 @@
 ---
 template: about-page
 slug: /about
-title: Aboutt
+title: Sobre mí
 ---
 Soy estudiante del Doctorado en Estudios Científico Sociales del ITESO. Estudié la Licenciatura en Comunicación en la UNAM, la Maestría en Periodismo y Asuntos Públicos en el CIDE, un diplomado en Periodismo de Datos en el ITAM, y varios cursos de Periodismo en The Knight Center for Journalism in the Americas y en el Centro de Formación en Periodismo Digital de la UDG Virtual. También soy parte del Taller de Crónica del escritor David Izazaga Márquez.
 
