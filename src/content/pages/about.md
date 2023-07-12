@@ -3,7 +3,7 @@ template: about-page
 slug: /about
 title: Sobre mí
 ---
-Soy estudiante del Doctorado en Estudios Científico Sociales del ITESO. Colaboro en El Heraldo Radio La Laguna, en el programa de José Carlos Nava. Y participo en el podcast Café de Nadie.
+Soy estudiante del Doctorado en Estudios Científico Sociales del ITESO, colaboro en El Heraldo Radio y participo en el podcast Café de Nadie. 
 
 Estudié la Licenciatura en Comunicación en la UNAM, la Maestría en Periodismo y Asuntos Públicos en el CIDE, un diplomado en Periodismo de Datos en el ITAM, y varios cursos de Periodismo en The Knight Center for Journalism in the Americas y en el Centro de Formación en Periodismo Digital de la UDG Virtual. También soy parte del Taller de Crónica del escritor David Izazaga Márquez.
 
