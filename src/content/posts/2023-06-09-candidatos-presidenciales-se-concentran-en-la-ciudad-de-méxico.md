@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Candidatos presidenciales se concentran en la Ciudad de México
-slug: presidenciales_se_concentran_en_CDMX
+slug: /presidenciales_se_concentran_en_CDMX
 date: 2023-06-08 20:31
 description: Los candidatos presidenciales de México en 2018 se concentraron en
   pocos luigares del país para hacer proselitismo.
