@@ -1,8 +1,8 @@
 ---
 template: blog-post
 title: "AMLO, el candidato mejor posicionado en Twitter durante #Elecciones2018"
-slug: amlo_candidato_mejor_posicionado_en_Twitter_en_elecciones_2018
-date: 2023-06-08 20:42
+slug: /amlo_candidato_mejor_posicionado_en_Twitter_en_elecciones_2018
+date: 2018-06-11 20:42
 description: "Durante las elecciones presidenciales de 2018 en México, AMLO fue
   el candidato mejor posicionado en redes sociales, y Twitter no fue la
   excepción. "
