@@ -2,7 +2,7 @@
 template: blog-post
 title: R, un dolor necesario para periodistas
 slug: /r_un_dolor_necesario_para_periodistas
-date: 2023-06-08 21:24
+date: 2017-11-12 21:24
 description: El lenguaje de programación R es un aprendizaje necesario para los
   periodistas que desean aprovechar los grandes volúmenes de datos para contar
   historias.
