@@ -25,6 +25,8 @@ Sostenemos, que -en esencia- la diversión, entretenimiento y publicidad mantien
 
 ### **Extractivismo de datos**
 
+![Extractivismo](/assets/extract.jpg "Foto: Defense Visual Information Distribution Service / PICRYL (Licencia Creative Commons)")
+
 El término extractivismo hace referencia a la industria minera, que extrae materias primas, las refina y las comercializa, arrasando comunidades en el proceso. Actualmente, las empresas no solamente extraen carbón, níquel u otras materias primas; también extraen información a través de la minería de datos del comportamiento y la comunicación de los seres humanos (Mezzadra y Neilson, 2019, p.38). Al igual que el petróleo, afirma Nick Srnicek (2018, pp. 42-43), los datos se extraen, se refinan y se usan de distintas maneras. Los territorios de donde se extraen los datos son los usuarios mismos. 
 
 En el siglo XXI, los datos son cada vez más centrales para las empresas y su relación con los consumidores. No es que el capitalismo no hubiese usado datos en otras épocas, pero en el presente siglo la tecnología ayudó a que el proceso de extracción y almacenamiento fuera más barato. Los datos, a su vez, impulsaron un cambio profundo en el capitalismo. En este periodo, surgieron lo que Srnicek llama “las plataformas”, un nuevo tipo de empresa que tiene la infraestructura necesaria para comunicar a grupos de usuarios, extraer y controlar una inmensa cantidad de datos del comportamiento de dichos usuarios, y desplegar tendencias monopólicas (2018, p. 49).
@@ -40,6 +42,8 @@ Este mundo red interconectado gracias a las tecnologías de información y comun
 Analizar específicamente el fenómeno del extractivismo de datos llevado a cabo por las plataformas transnacionales de comunicación desde el marco teórico-conceptual de la Escuela Crítica de Comunicación es posible, y es necesario para entenderlo como un proceso que se da tanto en la superestructura social como en la base. Es un fenómeno sociocultural, donde se intercambian, negocian e imponen significados, pero también es un fenómeno económico-político. Desde mi punto de vista, hay conceptos como diversión, entretenimiento, publicidad y hegemonía, que nos permiten entender el tema. Pero antes de abordarlos, es necesario realizar una brevísima revisión crítica de esta tendencia, desde los ojos de algunos autores.  
 
 ### **Críticas a la teoría crítica**
+
+![@fuchschristian](/assets/fuchs.jpeg "Foto: @fuchschristian / X")
 
 Christian Fuchs, un autor que analiza fenómenos de comunicación desde la perspectiva de la Teoría Crítica, en su libro *Critical Theory of Communication: New Readings of Lukács, Adorno, Marcuse, Honneth and Habermas in the Age of the Internet*, asume que hay un marxismo abierto, que es en sí mismo dialéctico, pues se reconstruye con cada nueva contribución; entonces, la Teoría Crítica no es un universo cerrado, sino un esfuerzo que cruza referencia con otros enfoques y que ve en la comunicación un proceso importante (2016, p.3). El autor aboga por un enfoque que no cosifique las aportaciones de la Escuela de Frankfurt, sino que las abra a los debates y las críticas. 
 
@@ -61,6 +65,8 @@ Ahora bien, partiendo de los presupuestos anteriores, hay una serie de conceptos
 
 ### **Diversión, entretenimiento y extractivismo** 
 
+![Daniel Aleksandersen ](/assets/youtube.png "Foto: Daniel Aleksandersen  / CTRBLOG (Licencia Creative Commons)")
+
 Horkheimer y Adorno, en su famoso capítulo sobre la industria cultural, que forma parte del libro que en español se traduce como Dialéctica de la Ilustración, aborda el tema de la diversión. Para ellos, la industria cultural es la industria de la mediación. El poder de la industria sobre los consumidores está mediado por la diversión (1998, p. 181).  
 
 Sin embargo, para los autores de la Escuela de Frankfurt, la diversión es la prolongación del trabajo. Lo es en varios sentidos. Primero, como espacio de sustracción, como pausa para recuperarse y más tarde volver al trabajo. La diversión no debe implicar esfuerzos intelectuales extras; es una diversión petrificada que no robe energías al trabajo. En ese sentido forma parte del trabajo mismo (Horkheimer y Adorno, 1998, pp.181-182). Segundo, la diversión no es un acto creativo, es un acto de consumo. El capitalismo fabrica productos para la diversión. Para Smythe, el propósito central del entretenimiento en los medios de comunicación en las sociedades capitalistas es garantizar la atención a los productos y servicios que se anuncian, es llevar un flujo de audiencia a los anunciantes (1977, p.6). 
@@ -78,6 +84,8 @@ Pero Smythe va más allá. Para él, ver televisión o escuchar un programa de r
 En síntesis, desde una perspectiva crítica, el entretenimiento a través de Internet y redes sociales en realidad es una extensión del trabajo, con el que generas datos, que otro extrae pule para aumentar tu atención y venderla a los anunciantes, a quien probablemente comprarás 
 
 **Publicidad, demanda y conciencia**
+
+![Tris Hussey ](/assets/publi.jpg "Foto: Tris Hussey (Licencia Creative Commons)")
 
 Dallas Smythe también hace una crítica a los marxistas occidentales, entiéndase Escuela de Frankfurt y herederos, a través de la noción de publicidad. Para Smythe, la publicidad no es sólo un mecanismo de manipulación de las conciencias, es también el instrumento del capitalismo para gestionar la demanda. La producción en masa y en serie, según el autor, no habrían sido posibles sin la publicidad (1977, p. 21). Da una cifra: en 1973, en Estados Unidos, 25 mil millones de inversión en publicidad se convirtieron en aproximadamente 800 mil millones de dólares de consumo. Desde la perspectiva de este autor, uno de los principales motivos de existencia de los medios masivos de comunicación es producir audiencias que trabajen en el aprendizaje y la práctica del consumo de bienes y servicios. Y esto se hace a través de la publicidad. 
 
