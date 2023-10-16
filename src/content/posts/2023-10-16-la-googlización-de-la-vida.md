@@ -2,7 +2,7 @@
 template: blog-post
 title: La Googlización de la vida
 slug: /googlizacion_de_la_vida
-date: 2023-10-15 19:47
+date: 2023-05-02 19:47
 description: Cada pliege de la esfera pública y de la vida privada está
   colonizado por Google.
 featuredImage: /assets/google.jpg
