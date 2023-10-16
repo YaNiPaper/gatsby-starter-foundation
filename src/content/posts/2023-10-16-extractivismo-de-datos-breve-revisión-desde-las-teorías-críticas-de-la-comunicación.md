@@ -4,9 +4,9 @@ title: "Extractivismo de datos: breve revisión desde las Teorías Críticas de 
   Comunicación"
 slug: /extractivismo_de_datos_revision_desde_las_teorias_criticas_de_la_comunicacion
 date: 2023-10-16 13:10
-description: "El extractivismo de datos es la principal actividad que genera las
+description: El extractivismo de datos es la principal actividad que genera las
   ganancias de las grandes plataformas de comunicacion digital como Facebook y
-  Google. "
+  Google
 featuredImage: /assets/facebook.jpg
 ---
 F﻿oto:  Wikimedia Commons (Licencia Creative Commons)
