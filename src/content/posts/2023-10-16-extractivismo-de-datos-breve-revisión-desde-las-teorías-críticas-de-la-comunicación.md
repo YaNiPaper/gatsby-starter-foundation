@@ -7,7 +7,7 @@ date: 2023-10-16 13:10
 description: El extractivismo de datos es la principal actividad que genera las
   ganancias de las grandes plataformas de comunicacion digital como Facebook y
   Google
-featuredImage: /assets/facebook.jpg
+featuredImage: /assets/extractivismo.png
 ---
 F﻿oto:  Wikimedia Commons (Licencia Creative Commons)
 
