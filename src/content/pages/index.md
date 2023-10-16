@@ -8,4 +8,4 @@ cta:
   ctaText: ¿Quién soy?
   ctaLink: /about
 ---
-Un humilde blog de historias y datos sobre cultura digital.
+El humilde blog de un aprendiz para hablar sobre datos e historias relacionadas con la cultura digital.
