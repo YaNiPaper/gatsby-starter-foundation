@@ -5,7 +5,7 @@ slug: /esto_se_dijo_en_twitter_sobre_atentado_a_ciro_gomez_leyva
 date: 2023-02-22 20:50
 description: Lo que se dijo en Twitter sobre el atentado contra el periodista
   Ciro Gomez Leyva
-featuredImage: /assets/ciro.png
+featuredImage: /assets/ciro_gomez.png
 ---
 ¿Qué se dijo en Twitter sobre el atentado contra el periodista Ciro Gómez Leyva? ¿Recibió apoyo o revictimización?
 
