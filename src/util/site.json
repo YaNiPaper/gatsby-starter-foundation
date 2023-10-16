@@ -2,8 +2,8 @@
   "meta": {
     "title": "YaNiPaper",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
+    "description": "El humilde blog de un aprendiz para hablar sobre datos e historias de cultura digital.",
+    "siteUrl": "https://yanipaper.netlify.app/",
     "image": "/assets/yanipaper.jpeg",
     "iconimage": "/assets/yanipaper.jpeg",
     "twitterUsername": "@yanipaper"
