@@ -2,7 +2,7 @@
 template: blog-post
 title: "López Obrador, el más amado en Facebook en las #Elecciones2018"
 slug: /lopez_obrador_el_mas_amado_en_facebook
-date: 2018-04-30 21:10
+date: 2018-04-29 21:10
 description: Andrés Manuel López Obrador fue el candidato más popular en
   Facebook durante las elecciones de 2018 en México.
 featuredImage: /assets/screenshot-20230608211527-1257x846.png
