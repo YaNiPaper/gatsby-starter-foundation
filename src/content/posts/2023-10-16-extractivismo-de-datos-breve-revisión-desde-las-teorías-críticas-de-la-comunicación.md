@@ -39,8 +39,6 @@ Este mundo red interconectado gracias a las tecnologías de información y comun
 
 Analizar específicamente el fenómeno del extractivismo de datos llevado a cabo por las plataformas transnacionales de comunicación desde el marco teórico-conceptual de la Escuela Crítica de Comunicación es posible, y es necesario para entenderlo como un proceso que se da tanto en la superestructura social como en la base. Es un fenómeno sociocultural, donde se intercambian, negocian e imponen significados, pero también es un fenómeno económico-político. Desde mi punto de vista, hay conceptos como diversión, entretenimiento, publicidad y hegemonía, que nos permiten entender el tema. Pero antes de abordarlos, es necesario realizar una brevísima revisión crítica de esta tendencia, desde los ojos de algunos autores.  
 
-
-
 ### **Críticas a la teoría crítica**
 
 Christian Fuchs, un autor que analiza fenómenos de comunicación desde la perspectiva de la Teoría Crítica, en su libro Critical Theory of Communication: New Readings of Lukács, Adorno, Marcuse, Honneth and Habermas in the Age of the Internet, asume que hay un marxismo abierto, que es en sí mismo dialéctico, pues se reconstruye con cada nueva contribución; entonces, la Teoría Crítica no es un universo cerrado, sino un esfuerzo que cruza referencia con otros enfoques y que ve en la comunicación un proceso importante (2016, p.3). El autor aboga por un enfoque que no cosifique las aportaciones de la Escuela de Frankfurt, sino que las abra a los debates y las críticas. 
@@ -61,8 +59,6 @@ La teoría crítica debe actualizarse para mirar las realidades del siglo XXI. I
 
 Ahora bien, partiendo de los presupuestos anteriores, hay una serie de conceptos que nos gustaría retomar para analizar el fenómeno del extractivismo de datos; no son todos los posibles, pero sí dan cuenta de cómo las nuevas realidades comunicativas en la era de Internet pueden ser abordadas rescatando el legado de la Escuela Crítica de Comunicación. 
 
-
-
 ### **Diversión, entretenimiento y extractivismo** 
 
 Horkheimer y Adorno, en su famoso capítulo sobre la industria cultural, que forma parte del libro que en español se traduce como Dialéctica de la Ilustración, aborda el tema de la diversión. Para ellos, la industria cultural es la industria de la mediación. El poder de la industria sobre los consumidores está mediado por la diversión (1998, p. 181).  
@@ -81,7 +77,8 @@ Pero Smythe va más allá. Para él, ver televisión o escuchar un programa de r
 
 En síntesis, desde una perspectiva crítica, el entretenimiento a través de Internet y redes sociales en realidad es una extensión del trabajo, con el que generas datos, que otro extrae pule para aumentar tu atención y venderla a los anunciantes, a quien probablemente comprarás 
 
-### \
+
+
 **Publicidad, demanda y conciencia**
 
 Dallas Smythe también hace una crítica a los marxistas occidentales, entiéndase Escuela de Frankfurt y herederos, a través de la noción de publicidad. Para Smythe, la publicidad no es sólo un mecanismo de manipulación de las conciencias, es también el instrumento del capitalismo para gestionar la demanda. La producción en masa y en serie, según el autor, no habrían sido posibles sin la publicidad (1977, p. 21). Da una cifra: en 1973, en Estados Unidos, 25 mil millones de inversión en publicidad se convirtieron en aproximadamente 800 mil millones de dólares de consumo. Desde la perspectiva de este autor, uno de los principales motivos de existencia de los medios masivos de comunicación es producir audiencias que trabajen en el aprendizaje y la práctica del consumo de bienes y servicios. Y esto se hace a través de la publicidad. 
@@ -92,8 +89,6 @@ Según el sitio de internet Statista, especializado en estadísticas, de 2015 a 
 
 La publicidad, tanto en la era de la televisión como en la era de las plataformas digitales, no es un asunto que ocurre y funciona únicamente en la superestructura. La publicidad ha sido y es un sistema de gestión de la demanda de bienes y servicios. No obstante, Smythe reconoce que es necesario mirar las conexiones de la publicidad con otras áreas del sistema social (1977, pp. 22-23). El autor habla, entonces, de la teoría marxista de la conciencia. Los medios de comunicación y la publicidad son un sistema de producción de audiencias y de gestión de la demanda de bienes y servicios, pero también son la industria de la conciencia. Las imágenes producidas por los productos como la ropa y la vivienda generan significados y estos producen cultura. La industria de la conciencia, afirma Smythe, produce gafas que perciben significados y, al mismo tiempo, orientan el consumo. La superestructura y la base interactúan con la publicidad. Es una relación dialéctica. 
 
-
-
 ### **Conclusiones**
 
 Las funciones de la diversión y el entretenimiento, así como de la relación medios de comunicación-publicidad trascendieron el capitalismo fordista y se mantienen en el capitalismo digital. Para Fuchs, este tipo de fenómenos no desaparecen con Internet y las redes sociales, sino que se vuelven más complejos (Fuchs, 2016, p.41) y es necesario analizarlos.
@@ -103,8 +98,6 @@ La diversión y la publicidad, a diferencia de épocas anteriores, están anclad
 La publicidad mantiene su función de gestión de la demanda de productos y servicios, pero también la de construcción de significados y de cultura y de producción de conciencia. La publicidad en redes y el contenido modelado con esa publicidad (marketing digital de contenido) generan formas de vida. La publicidad, como antes, funciona al mismo tiempo en la base y en la superestructura. Internet y las redes sociales son espacios de disputa del habla, de negociación y construcción de significados, de puesta en marcha de narrativas alternas a las del poder, es cierto, pero no debemos olvidar que también son plataformas materiales de acumulación de capital en las que el proceso de extracción, acumulación y control de grandes volúmenes de datos es el punto medular.
 
 La extracción de datos es material e inmaterial: es una extracción infocognitiva (Ramírez y Minteguiaga, 2020, p. 57). Las grandes plataformas de comunicación extraen datos del mundo psíquico, del mundo de la vida y de la cultura para procesarlos y generar y concentrar ganancias. Como afirma Fuchs, Internet no cambió radicalmente la sociedad pero la sociedad cambió para mantener las mismas relaciones de producción y de poder.
-
-
 
 ### **Fuentes**
 
