@@ -4,6 +4,7 @@ title: El lado oscuro de Apple
 slug: /el_lado_oscuro_de_apple
 date: 2023-05-23 19:40
 description: El historial oscuro de la empresa tecnológica Apple
+featuredImage: /assets/apple.jpg
 ---
 F﻿oto: Jay Rogers / Flicker (Licencia Creative Commons)
 
