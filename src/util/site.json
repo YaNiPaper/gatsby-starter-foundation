@@ -2,11 +2,11 @@
   "meta": {
     "title": "YaNiPaper",
     "titleTemplate": "%s",
-    "description": "El humilde blog de un aprendiz para hablar sobre datos e historias de cultura digital.",
+    "description": "El humilde blog de un aprendiz para hablar sobre datos e historias relacionadas con la cultura digital.",
     "siteUrl": "https://yanipaper.netlify.app/",
     "image": "/assets/yanipaper.jpeg",
     "iconimage": "/assets/yanipaper.jpeg",
     "twitterUsername": "@yanipaper"
   },
-  "ga": "UA-XXXXXXXXX-X"
+  "ga": "UA-42768329-1"
 }
