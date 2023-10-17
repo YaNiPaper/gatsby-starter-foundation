@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Revisión del libro Hybrid Media Activism. Ecologies, imaginaries, algorithms
+title: Revisión del libro "Hybrid Media Activism. Ecologies, imaginaries, algorithms"
 slug: /revision_del_libro_hybrid_media_activism
 date: 2023-06-12 17:47
 description: Revision del libro Hybrid Media Activism
