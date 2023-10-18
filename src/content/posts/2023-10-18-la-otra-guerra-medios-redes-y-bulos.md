@@ -1,7 +1,7 @@
 ---
 template: blog-post
-title: "La otra guerra: medios, redes y bulos"
-slug: /la_otra_guerra_medios_redes_y_bulos
+title: "La otra guerra: medios, redes y noticias falsas"
+slug: /la_otra_guerra_medios_redes_y_noticias_falsas
 date: 2023-10-17 19:19
 description: En este episodio hablamos de la noticia falsa de los 40 niños
   decapitados al sur de Israel por parte de Hamás.
