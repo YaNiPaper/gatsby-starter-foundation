@@ -50,6 +50,7 @@ collections:
           format: "YYYY-MM-DD HH:mm",
         }
       - { label: "SEO Description", name: "description", widget: "text" }
+      - {label: "Tags", name: "tags", widget: "string"}
       - {
           label: "Featured Image",
           name: "featuredImage",
@@ -57,7 +58,7 @@ collections:
           required: false,
           tagname: "",
         }
-
+        - {label: "Summary", name: "summary", widget: "string"}
       - {
           label: "Body",
           name: "body",
