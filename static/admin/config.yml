@@ -58,7 +58,7 @@ collections:
       - {
           label: "Body",
           name: "body",
-          widget: "markdown",
+          widget: "text",
           hint: "Main content goes here.",
         }
   - label: "Pages"
