@@ -34,6 +34,7 @@ collections:
           widget: "hidden",
           default: "blog-post",
         }
+      - {label: "Draft", name: "draft", widget: "boolean", default: true}
       - { label: "Title", name: "title", widget: "string", tagname: "h1" }
       - {
           label: "Slug",
