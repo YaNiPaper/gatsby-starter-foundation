@@ -15,14 +15,6 @@ media_folder: "static/assets"
 public_folder: "/assets"
 
 collections:
- - name: authors
-    label: Authors
-    folder: "authors"
-    create: true
-    fields:
-      - {name: name, label: Name}
-      - {name: twitterHandle, label: "Twitter Handle"}
-      - {name: bio, label: Bio, widget: text}
       
   - name: "posts" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Posts" # Used in the UI
