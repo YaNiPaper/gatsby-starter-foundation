@@ -59,6 +59,12 @@ collections:
           required: false,
           tagname: "",
         }
+      - { label: "Author", name: "author", widget: "relation", 
+          collection: "authors", 
+          value_field: "email", 
+          display_fields: [ "name" ], 
+          search_fields: [ "name", "email" ] 
+        }
       - {
           label: "Body",
           name: "body",
